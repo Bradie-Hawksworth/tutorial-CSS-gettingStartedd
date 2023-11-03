@@ -21,3 +21,11 @@ li em{
 h1 + p{ /*This adds the rules to format the paragraph just after the h1 element.*/
 	font-size:200%;
 }
+
+a:link{ /*Styling an univisited link to be pink by default*/
+	color:pink;
+}
+
+a:visited{ /*Styling a visited link to be green*/
+	color:green;
+}
