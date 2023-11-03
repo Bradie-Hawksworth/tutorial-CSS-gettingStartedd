@@ -17,3 +17,7 @@ span.special{
 li em{
 	color:rebeccapurple;
 }
+
+h1 + p{ /*This adds the rules to format the paragraph just after the h1 element.*/
+	font-size:200%;
+}
