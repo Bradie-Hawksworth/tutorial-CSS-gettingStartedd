@@ -9,7 +9,7 @@ li{
 ul{
 	list-style-type:trad-chinese-informal;
 }
-.special{
+li.special{
 	color:orange;
 	font-weight:bold;	
 }
