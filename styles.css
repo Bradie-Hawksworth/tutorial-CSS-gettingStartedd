@@ -23,11 +23,12 @@ h1 + p{ /*This adds the rules to format the paragraph just after the h1 element.
 }
 
 a:link{ /*Styling an univisited link to be pink by default*/
-	color:pink;
+	color:purple;
+	font-weight:bold;
 }
 
 a:visited{ /**/
-	color:green;
+	color:yellow;
 }
 
 a:hover{
